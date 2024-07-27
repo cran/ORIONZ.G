@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "cor", "rnorm", "runif","pnorm", "quantile",sd)
+importFrom("utils", "flush.console")
